@@ -567,10 +567,6 @@ python -m unittest discover tests/
   </a>
 </p>
 
-<p align="center">
-  <i>"Combining the elegance of factorization models with the power of deep learning."</i>
-</p>
-
 <br>
 
 ---
